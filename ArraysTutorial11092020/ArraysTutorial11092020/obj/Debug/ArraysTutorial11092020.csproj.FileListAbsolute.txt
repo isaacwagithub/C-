@@ -1,0 +1,7 @@
+C:\Users\Ptacorp3\source\repos\ArraysTutorial11092020\ArraysTutorial11092020\bin\Debug\ArraysTutorial11092020.exe.config
+C:\Users\Ptacorp3\source\repos\ArraysTutorial11092020\ArraysTutorial11092020\bin\Debug\ArraysTutorial11092020.exe
+C:\Users\Ptacorp3\source\repos\ArraysTutorial11092020\ArraysTutorial11092020\bin\Debug\ArraysTutorial11092020.pdb
+C:\Users\Ptacorp3\source\repos\ArraysTutorial11092020\ArraysTutorial11092020\obj\Debug\ArraysTutorial11092020.csprojAssemblyReference.cache
+C:\Users\Ptacorp3\source\repos\ArraysTutorial11092020\ArraysTutorial11092020\obj\Debug\ArraysTutorial11092020.csproj.CoreCompileInputs.cache
+C:\Users\Ptacorp3\source\repos\ArraysTutorial11092020\ArraysTutorial11092020\obj\Debug\ArraysTutorial11092020.exe
+C:\Users\Ptacorp3\source\repos\ArraysTutorial11092020\ArraysTutorial11092020\obj\Debug\ArraysTutorial11092020.pdb
