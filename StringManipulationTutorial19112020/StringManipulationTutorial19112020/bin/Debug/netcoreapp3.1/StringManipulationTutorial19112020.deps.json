@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StringManipulationTutorial19112020/1.0.0": {
+        "runtime": {
+          "StringManipulationTutorial19112020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringManipulationTutorial19112020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
