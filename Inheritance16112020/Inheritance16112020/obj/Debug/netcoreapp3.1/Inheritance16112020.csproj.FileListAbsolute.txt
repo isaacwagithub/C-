@@ -1,0 +1,13 @@
+C:\Users\Ptacorp3\source\repos\Inheritance16112020\Inheritance16112020\bin\Debug\netcoreapp3.1\Inheritance16112020.exe
+C:\Users\Ptacorp3\source\repos\Inheritance16112020\Inheritance16112020\bin\Debug\netcoreapp3.1\Inheritance16112020.deps.json
+C:\Users\Ptacorp3\source\repos\Inheritance16112020\Inheritance16112020\bin\Debug\netcoreapp3.1\Inheritance16112020.runtimeconfig.json
+C:\Users\Ptacorp3\source\repos\Inheritance16112020\Inheritance16112020\bin\Debug\netcoreapp3.1\Inheritance16112020.runtimeconfig.dev.json
+C:\Users\Ptacorp3\source\repos\Inheritance16112020\Inheritance16112020\bin\Debug\netcoreapp3.1\Inheritance16112020.dll
+C:\Users\Ptacorp3\source\repos\Inheritance16112020\Inheritance16112020\bin\Debug\netcoreapp3.1\Inheritance16112020.pdb
+C:\Users\Ptacorp3\source\repos\Inheritance16112020\Inheritance16112020\obj\Debug\netcoreapp3.1\Inheritance16112020.csprojAssemblyReference.cache
+C:\Users\Ptacorp3\source\repos\Inheritance16112020\Inheritance16112020\obj\Debug\netcoreapp3.1\Inheritance16112020.AssemblyInfoInputs.cache
+C:\Users\Ptacorp3\source\repos\Inheritance16112020\Inheritance16112020\obj\Debug\netcoreapp3.1\Inheritance16112020.AssemblyInfo.cs
+C:\Users\Ptacorp3\source\repos\Inheritance16112020\Inheritance16112020\obj\Debug\netcoreapp3.1\Inheritance16112020.csproj.CoreCompileInputs.cache
+C:\Users\Ptacorp3\source\repos\Inheritance16112020\Inheritance16112020\obj\Debug\netcoreapp3.1\Inheritance16112020.dll
+C:\Users\Ptacorp3\source\repos\Inheritance16112020\Inheritance16112020\obj\Debug\netcoreapp3.1\Inheritance16112020.pdb
+C:\Users\Ptacorp3\source\repos\Inheritance16112020\Inheritance16112020\obj\Debug\netcoreapp3.1\Inheritance16112020.genruntimeconfig.cache
