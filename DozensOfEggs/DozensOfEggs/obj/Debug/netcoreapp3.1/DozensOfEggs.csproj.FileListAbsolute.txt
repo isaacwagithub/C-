@@ -1,0 +1,12 @@
+C:\Users\Ptacorp3\source\repos\DozensOfEggs\DozensOfEggs\bin\Debug\netcoreapp3.1\DozensOfEggs.exe
+C:\Users\Ptacorp3\source\repos\DozensOfEggs\DozensOfEggs\bin\Debug\netcoreapp3.1\DozensOfEggs.deps.json
+C:\Users\Ptacorp3\source\repos\DozensOfEggs\DozensOfEggs\bin\Debug\netcoreapp3.1\DozensOfEggs.runtimeconfig.json
+C:\Users\Ptacorp3\source\repos\DozensOfEggs\DozensOfEggs\bin\Debug\netcoreapp3.1\DozensOfEggs.runtimeconfig.dev.json
+C:\Users\Ptacorp3\source\repos\DozensOfEggs\DozensOfEggs\bin\Debug\netcoreapp3.1\DozensOfEggs.dll
+C:\Users\Ptacorp3\source\repos\DozensOfEggs\DozensOfEggs\bin\Debug\netcoreapp3.1\DozensOfEggs.pdb
+C:\Users\Ptacorp3\source\repos\DozensOfEggs\DozensOfEggs\obj\Debug\netcoreapp3.1\DozensOfEggs.AssemblyInfoInputs.cache
+C:\Users\Ptacorp3\source\repos\DozensOfEggs\DozensOfEggs\obj\Debug\netcoreapp3.1\DozensOfEggs.AssemblyInfo.cs
+C:\Users\Ptacorp3\source\repos\DozensOfEggs\DozensOfEggs\obj\Debug\netcoreapp3.1\DozensOfEggs.csproj.CoreCompileInputs.cache
+C:\Users\Ptacorp3\source\repos\DozensOfEggs\DozensOfEggs\obj\Debug\netcoreapp3.1\DozensOfEggs.dll
+C:\Users\Ptacorp3\source\repos\DozensOfEggs\DozensOfEggs\obj\Debug\netcoreapp3.1\DozensOfEggs.pdb
+C:\Users\Ptacorp3\source\repos\DozensOfEggs\DozensOfEggs\obj\Debug\netcoreapp3.1\DozensOfEggs.genruntimeconfig.cache
