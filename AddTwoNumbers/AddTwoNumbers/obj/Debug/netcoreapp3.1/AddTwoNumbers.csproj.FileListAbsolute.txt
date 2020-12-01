@@ -1,0 +1,13 @@
+C:\Users\Ptacorp3\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.exe
+C:\Users\Ptacorp3\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.deps.json
+C:\Users\Ptacorp3\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.runtimeconfig.json
+C:\Users\Ptacorp3\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.runtimeconfig.dev.json
+C:\Users\Ptacorp3\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.dll
+C:\Users\Ptacorp3\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.pdb
+C:\Users\Ptacorp3\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.csprojAssemblyReference.cache
+C:\Users\Ptacorp3\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Ptacorp3\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.AssemblyInfo.cs
+C:\Users\Ptacorp3\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ptacorp3\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.dll
+C:\Users\Ptacorp3\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.pdb
+C:\Users\Ptacorp3\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.genruntimeconfig.cache
