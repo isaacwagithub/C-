@@ -1,1 +1,1 @@
-Create a console application that add two numbers and display them
+Create a console application that reads two numbers from the console,add the two numbers and display the sum
